@@ -1,2 +1,3 @@
 # Sketch
-another JS project from the Odin Project
+A website for sketch lovers
+https://ahmedraza18.github.io/sketch/
